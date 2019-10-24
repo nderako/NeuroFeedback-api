@@ -113,7 +113,7 @@ Highcharts.chart('container', {
         enabled: false
     },
     series: [{
-        name: 'Heartbeats data',
+        name: 'Brainwaves data',
         data: (function () {
             // generate an array of random data
             var data = [],
