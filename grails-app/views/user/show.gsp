@@ -34,7 +34,7 @@
                 <g:else>
                     <li>Sin doctor asignado</li>
                 </g:else>
-                <li>Role: ${this.user.role}</li>
+                <li>Rol: ${this.user.role}</li>
             </ul>
             <g:form resource="${this.user}" method="DELETE">
                 <fieldset class="buttons">
